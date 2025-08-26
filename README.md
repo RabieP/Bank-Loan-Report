@@ -21,7 +21,7 @@ Excel / CSV – for initial data handling
 
 DAX – for advanced calculations
 
-#How to Use
+# How to Use
 
 Open the .pbix files in Power BI Desktop (if included).
 
@@ -29,7 +29,7 @@ Explore dashboards with slicers and filters.
 
 Use insights for business decision-making.
 
-#Key Skills Demonstrated
+# Key Skills Demonstrated
 
 Data Cleaning & Transformation
 
