@@ -1,42 +1,34 @@
+# 📊 Bank Loan Report  
 
-# Bank Loan Report
-Objective: Analyze lending operations, borrower demographics, and loan performance.
-Key Features:
+## Overview  
+This project analyzes lending operations, borrower demographics, and loan performance using interactive dashboards in Power BI. The goal is not only to track KPIs but also to **tell the story of borrower behavior, loan health, and financial risk**.  
 
-Executive summary of KPIs: Loan Applications, Funded Amount, Amount Received, Interest Rate, DTI.
+## Objective  
+To build a data-driven reporting system that:  
+- Summarizes key loan metrics (applications, funded amounts, repayments, interest rates, DTI).  
+- Classifies loan performance into *Good* vs. *Bad* categories.  
+- Identifies trends by issue date, state, loan term, employment length, loan purpose, and home ownership.  
+- Provides interactive filtering for deeper exploration.  
 
-Loan performance classification: Good vs. Bad Loans.
+## Insights  
+- Highlighted lending patterns across borrower segments and geographies.  
+- Identified risk factors linked to bad loans (e.g., shorter employment history, certain loan purposes).  
+- Assessed overall financial health by comparing funded vs. received amounts.  
+- Helped reveal strategic opportunities for lenders to improve decision-making.  
 
-Trend analysis by issue date, state, loan term, employment length, purpose, and home ownership.
+## Tools & Technologies  
+- **Power BI** – dashboard development & visualization  
+- **Excel / CSV** – initial data handling  
+- **DAX** – advanced calculations & metrics  
 
-Interactive filters for deeper exploration.
+## How to Use  
+1. Open the `.pbix` file in **Power BI Desktop**.  
+2. Interact with slicers and filters to explore the dashboards.  
+3. Use insights to support loan portfolio analysis and business strategy.  
 
-📌 Insights: Helped identify lending patterns, borrower risk factors, and financial health indicators
-
-# Tools & Technologies
-
-Power BI – for dashboard development and data visualization
-
-Excel / CSV – for initial data handling
-
-DAX – for advanced calculations
-
-# How to Use
-
-Open the .pbix files in Power BI Desktop.
-
-Explore dashboards with slicers and filters.
-
-Use insights for business decision-making.
-
-# Key Skills Demonstrated
-
-Data Cleaning & Transformation
-
-KPI Development
-
-Business Domain Analysis (Finance, Hospitality, Retail)
-
-Storytelling with Data
-
-Interactive Dashboard Design
+## Key Skills Demonstrated  
+- Data Cleaning & Transformation  
+- KPI Development & Business Metrics  
+- Financial Domain Analysis  
+- Storytelling with Data  
+- Interactive Dashboard Design  
